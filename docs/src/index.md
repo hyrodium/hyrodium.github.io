@@ -18,6 +18,6 @@
 ![](img/turtleA.jpg) ![](img/turtleB.jpg)
 
 ## 自己紹介②
-これは私の名刺です.
+これは私の[名刺](https://zenn.dev/hyrodium/articles/5dc951f378b46bedb211)です.
 
 ![](img/namecard.gif)
