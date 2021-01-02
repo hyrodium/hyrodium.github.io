@@ -47,6 +47,15 @@ NURBSは区分有理式を用いて曲線や曲面を表現するための手法
 日本語の文章で数学的にちゃんとした文章が見当たらなかったので書きました.
 (実は一部の証明などに間違いがありますが、修正に手が回ってません…)
 
+[Overleaf](https://www.overleaf.com/read/sfzqrxbckdwh),
+[PDF](https://drive.google.com/file/d/1TojTUq4K-c4nqU1V-ZTa53kdFxHqSLzI/view)
+
+
+## 数値積分フローチャート
+![](img/numericalintegralflowchart.png)
+
+数値積分の入門のためにフローチャートを作成しました.
+
 [Overleaf](https://www.overleaf.com/read/vygnptvqfspd),
 [PDF](https://drive.google.com/open?id=1JK2tBEXQavGOq2nlkpJyoeQC0QoIUOQ3)
 
