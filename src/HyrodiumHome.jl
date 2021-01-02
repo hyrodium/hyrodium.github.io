@@ -29,4 +29,3 @@ function Documenter.gitrm_copy(src, dst)
 end
 
 end
- 
