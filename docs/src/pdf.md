@@ -4,7 +4,7 @@
 ![](img/cossin.png)
 
 [100 Great Problems of Elementary Mathematics](https://www.amazon.co.jp/dp/B00BOKIWSM)の内容をもとに書いた文章です.
-微分や積分を使わずにexp, sin, cosの冪級数展開を求めます.
+微分や積分を使わずに``\exp(x)``, ``\sin(x)``, ``\cos(x)``の冪級数展開を求めます.
 
 [Overleaf](https://www.overleaf.com/read/cpkzxvzczssn),
 [PDF](https://drive.google.com/open?id=1otefohLREQurkijJ7Ei_5jFyf-GugiJM)
@@ -19,10 +19,10 @@
 [PDF](https://drive.google.com/open?id=1cg2xY0FJ3MNmAqzLWA2AUIA64asKhLkY)
 
 
-## n+1点を通るn-1次元球面
+## ``n+1``点を通る``n-1``次元球面
 ![](img/sphere.png)
 
-n+1個の点𝒑ᵢがℝᵐ (n≤m)上の一般の位置にあるとき, 𝒑ᵢを通るn-1次元球面S⊂ℝᵐが一意的に存在します. その球面Sの中心𝒄を求める式を導出しました.
+``n+1``個の点``\bm{p}_i``が``\mathbb{R}^m (n≤m)``上の一般の位置にあるとき, ``\bm{p}_i``を通る``n-1``次元球面``S⊂ℝᵐ``が一意的に存在します. その球面Sの中心𝒄を求める式を導出しました.
 これは3角形の外心の一般化でもあります.
 
 [Overlaf](https://www.overleaf.com/read/nnffssqthbsf),
@@ -61,6 +61,6 @@ NURBSは区分有理式を用いて曲線や曲面を表現するための手法
 
 
 ## LandauのO-記法の厳密な扱い(執筆中)
-Landauの記法O(x)とかの厳密な扱いについて書いています.
+Landauの記法``O(x)``とかの厳密な扱いについて書いています.
 
 [Overleaf](https://www.overleaf.com/read/hxrrkzkfrwkv)
