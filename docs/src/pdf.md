@@ -22,7 +22,8 @@
 ## ``n+1``点を通る``n-1``次元球面
 ![](img/sphere.png)
 
-``n+1``個の点``\bm{p}_i``が``\mathbb{R}^m (n≤m)``上の一般の位置にあるとき, ``\bm{p}_i``を通る``n-1``次元球面``S⊂ℝᵐ``が一意的に存在します. その球面Sの中心𝒄を求める式を導出しました.
+``n+1``個の点``\bm{p}_i``が``\mathbb{R}^m (n≤m)``上の一般の位置にあるとき, ``\bm{p}_i``を通る``n-1``次元球面``S⊂ℝᵐ``が一意的に存在します.
+その球面Sの中心``\bm{c}``を求める式を導出しました.
 これは3角形の外心の一般化でもあります.
 
 [Overlaf](https://www.overleaf.com/read/nnffssqthbsf),
@@ -47,8 +48,8 @@ NURBSは区分有理式を用いて曲線や曲面を表現するための手法
 日本語の文章で数学的にちゃんとした文章が見当たらなかったので書きました.
 (実は一部の証明などに間違いがありますが、修正に手が回ってません…)
 
-[Overleaf](https://www.overleaf.com/read/sfzqrxbckdwh),
-[PDF](https://drive.google.com/file/d/1TojTUq4K-c4nqU1V-ZTa53kdFxHqSLzI/view)
+[Overleaf](https://www.overleaf.com/read/vygnptvqfspd),
+[PDF](https://drive.google.com/open?id=1JK2tBEXQavGOq2nlkpJyoeQC0QoIUOQ3)
 
 
 ## 数値積分フローチャート
@@ -56,8 +57,8 @@ NURBSは区分有理式を用いて曲線や曲面を表現するための手法
 
 数値積分の入門のためにフローチャートを作成しました.
 
-[Overleaf](https://www.overleaf.com/read/vygnptvqfspd),
-[PDF](https://drive.google.com/open?id=1JK2tBEXQavGOq2nlkpJyoeQC0QoIUOQ3)
+[Overleaf](https://www.overleaf.com/read/sfzqrxbckdwh),
+[PDF](https://drive.google.com/file/d/1TojTUq4K-c4nqU1V-ZTa53kdFxHqSLzI/view)
 
 
 ## LandauのO-記法の厳密な扱い(執筆中)
