@@ -1,11 +1,14 @@
 # 出展・発表歴
 学会発表, 制作物展示, LTなどなど
 
+## 2020
 * JuliaTokai #8
     * 日程: 2020/11/14
     * 場所: オンライン開催
     * 「MCMCで求めるHolyNumbers」というタイトルで発表しました.
     * [発表資料](https://hackmd.io/@hyrodium/S15oYVSYw#/), [イベントページ](https://juliatokai.connpass.com/event/192772/)
+
+## 2019
 * JuliaTokai #3
     * 日程: 2019/08/24
     * 場所: 有限会社来栖川電算
@@ -16,6 +19,8 @@
     * 場所: Baltimore
     * 「Isometric transformation between Catenoid and Helicoid」を展示しました.
     * [個別ページ](http://gallery.bridgesmathart.org/exhibitions/2019-joint-mathematics-meetings/yuto-horikawa)
+
+## 2018
 * Ogaki Mini Maker Faire 2018
     * 日程: 2018/12/01 - 2018/12/02
     * 場所: 岐阜県大垣市 ソフトピアジャパン・センタービル
@@ -49,6 +54,8 @@
     * 「Frobeniusの定理」というタイトルでLTしました.
     * [発表資料](https://hackmd.io/p/Hkvm0AE3f#/1)
     * [発表動画](https://www.youtube.com/watch?v=dZ8HO4T3ljg)
+
+## 2016
 * HackDay2016
     * 日程: 2016/02/13 - 2016/02/14
     * 場所: ベルサール秋葉原
@@ -59,6 +66,8 @@
     * 場所: 東京, Loopolic
     * 「Riemann球面に内接する直方体」というタイトルでLTしました.
     * [発表資料](https://www.slideshare.net/yutohorikawa/riemann-57827572), [発表の様子](https://www.nicovideo.jp/watch/sm28208708)
+
+## 2015
 * 第5回プログラマのための数学勉強会
     * 日程: 2015/11/21
     * 場所: TECH PLAY SHIBUYA
