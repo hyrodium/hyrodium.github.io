@@ -1,11 +1,11 @@
-using HyrodiumHome
 using Documenter
+using HyrodiumHome
 
 makedocs(;
     modules=[HyrodiumHome],
-    authors="hyrodium <hyrodium@gmail.com> and contributors",
+    authors="hyrodium <hyrodium@gmail.com>",
     repo="https://github.com/hyrodium/hyrodium.github.io/blob/{commit}{path}#L{line}",
-    sitename="HyrodiumHome.jl",
+    sitename="Hyrodium Home",
     format=Documenter.HTML(;
         prettyurls=true,
         canonical="https://hyrodium.github.io",
@@ -20,6 +20,6 @@ makedocs(;
     ],
 )
 
-# deploydocs(;
-#     repo="github.com/hyrodium/HyrodiumHome.jl",
-# )
+deploydocs(;
+    repo="github.com/hyrodium/hyrodium.github.io"
+)

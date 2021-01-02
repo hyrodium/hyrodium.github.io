@@ -3,6 +3,9 @@ uuid = "67e7e186-7d6d-4ad4-9306-63d5d0b84fec"
 authors = ["hyrodium <hyrodium@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+
 [compat]
 julia = "1.5"
 
