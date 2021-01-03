@@ -10,6 +10,7 @@ makedocs(;
         prettyurls=true,
         canonical="https://hyrodium.github.io",
         assets=String[],
+        lang="ja",
     ),
     pages=[
         "Home" => "index.md",
