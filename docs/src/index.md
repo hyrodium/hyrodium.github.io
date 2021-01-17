@@ -3,7 +3,8 @@
 ## 基本情報
 
 * 名前: 堀川 由人
-* Name: Horikawa Yuto
+* Real Name: Horikawa Yuto
+* Internet Name: Hyrodium
 
 ## 学職歴
 * 2019/01-20XX/XX なんらかのしごと2
