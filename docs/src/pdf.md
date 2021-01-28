@@ -25,7 +25,7 @@
 ![](img/sphere.png)
 
 ``n+1``個の点``\bm{p}_i``が``\mathbb{R}^m (n≤m)``上の一般の位置にあるとき, ``\bm{p}_i``を通る``n-1``次元球面``S⊂ℝ^m``が一意的に存在します.
-その球面Sの中心``\bm{c}``を求める式を導出しました.
+その球面``S``の中心``\bm{c}``を求める式を導出しました.
 これは3角形の外心の一般化でもあります.
 
 [Overlaf](https://www.overleaf.com/read/nnffssqthbsf)
