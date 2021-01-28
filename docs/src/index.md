@@ -14,9 +14,9 @@
 * 2010/04-2015/03 大阪高専
 
 ## 自己紹介①
-クサガメとミシシッピアカミミガメを飼っています.
+クサガメとアカピッピミシミシガメを飼っています.
 
-![](img/turtleA.jpg) ![](img/turtleB.jpg)
+![](img/turtleB.jpg) ![](img/turtleA.jpg)
 
 ## 自己紹介②
 これは私の[名刺](https://zenn.dev/hyrodium/articles/5dc951f378b46bedb211)です.
