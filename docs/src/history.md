@@ -1,6 +1,13 @@
 # 出展・発表歴
 学会発表, 制作物展示, LTなどなど
 
+## 2021
+* JuliaTokai #9
+    * 日程: 2021/02/13
+    * 場所: オンライン開催
+    * 「歯車を設計してSTL出力して3Dプリントした話」というタイトルで発表しました.
+    * [発表資料](https://hackmd.io/@hyrodium/SkaMEXE-O#/), [イベントページ](https://juliatokai.connpass.com/event/202413/)
+
 ## 2020
 * JuliaTokai #8
     * 日程: 2020/11/14
