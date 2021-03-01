@@ -1,8 +1,9 @@
 # PDF資料
 
-## 数値積分フローチャート (2021/01/01)
+## 数値積分フローチャート
 ![](img/numericalintegralflowchart.png)
 
+**(2021/01/01)**\
 数値積分の入門のためにフローチャートを作成しました.
 Gauss求積の学習のお伴にどうぞ.
 
@@ -11,9 +12,10 @@ Gauss求積の学習のお伴にどうぞ.
 [PDF](https://drive.google.com/file/d/1TojTUq4K-c4nqU1V-ZTa53kdFxHqSLzI/view)
 
 
-## ``n+1``点を通る``n-1``次元球面 (2019/12/15)
+## ``n+1``点を通る``n-1``次元球面
 ![](img/sphere.png)
 
+**(2019/12/15)**\
 ``n+1``個の点``\bm{p}_i``が``\mathbb{R}^m (n≤m)``上の一般の位置にあるとき, ``\bm{p}_i``を通る``n-1``次元球面``S⊂ℝ^m``が一意的に存在します.
 その球面``S``の中心``\bm{c}``を求める式を導出しました.
 これは3角形の外心の一般化でもあります.
@@ -23,9 +25,10 @@ Gauss求積の学習のお伴にどうぞ.
 [PDF](https://drive.google.com/open?id=1i_fuJQoKcPNZRJoBrZ_K4o6c1SzURgKA)
 
 
-## Riemann多様体上の発散の同値な定義 (2019/03/01)
+## Riemann多様体上の発散の同値な定義
 ![](img/divergence.png)
 
+**(2019/03/01)**\
 多様体にRiemann計量を入れるとベクトル場の発散が定義できますが, その流儀は色々あります.
 この文章ではそれらの同値性やそれぞれの利点や幾何的解釈について述べます.
 
@@ -34,10 +37,10 @@ Gauss求積の学習のお伴にどうぞ.
 [PDF](https://drive.google.com/file/d/1G6l0E1bpyb6v0dj85zfBLuvGO5QTNlMo/view)
 
 
-## NURBS多様体による形状表現 (2018/12/12)
-
+## NURBS多様体による形状表現
 ![](img/nurbs.png)
 
+**(2018/12/12)**\
 NURBSは区分有理式を用いて曲線や曲面を表現するための手法です.
 この手法はB-splineやBézier曲線の一般化であり, CGや数値計算などの分野で使われています.
 日本語の文章で数学的にちゃんとした文章が見当たらなかったので書きました.
@@ -48,9 +51,10 @@ NURBSは区分有理式を用いて曲線や曲面を表現するための手法
 [PDF](https://drive.google.com/open?id=1JK2tBEXQavGOq2nlkpJyoeQC0QoIUOQ3)
 
 
-## 微積分に頼らずに幾つかの冪級数を求める (2016/02/27)
+## 微積分に頼らずに幾つかの冪級数を求める
 ![](img/cossin.png)
 
+**(2016/02/27)**\
 [100 Great Problems of Elementary Mathematics](https://www.amazon.co.jp/dp/B00BOKIWSM)の内容をもとに書いた文章です.
 微分や積分を使わずに``\exp(x)``, ``\sin(x)``, ``\cos(x)``の冪級数展開を求めます.
 
@@ -59,16 +63,19 @@ NURBSは区分有理式を用いて曲線や曲面を表現するための手法
 [PDF](https://drive.google.com/open?id=1otefohLREQurkijJ7Ei_5jFyf-GugiJM)
 
 
-## 平方数の和 (2013/03/24)
+## 平方数の和
 ![](img/sumofsquare.png)
+
+**(2013/03/24)**\
 平方数の和の公式を視覚的に求めます.
 
 [PDF](https://drive.google.com/file/d/1i6lOCa_ptqMo4RpHuFUNt-DqVaeWPeWB/view?usp=sharing)
 
 
-## 平面上の2円の交点の座標について (2012/08/11)
+## 平面上の2円の交点の座標について
 ![](img/intersection.png)
 
+**(2012/08/11)**\
 解析幾何で2つの円の交点を求めます.
 
 [Overleaf](https://www.overleaf.com/read/qykjnbwdfjrj)
