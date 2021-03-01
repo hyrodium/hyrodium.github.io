@@ -1,27 +1,17 @@
 # PDF資料
 
-## 微積分に頼らずに幾つかの冪級数を求める
-![](img/cossin.png)
+## 数値積分フローチャート (2021/01/01)
+![](img/numericalintegralflowchart.png)
 
-[100 Great Problems of Elementary Mathematics](https://www.amazon.co.jp/dp/B00BOKIWSM)の内容をもとに書いた文章です.
-微分や積分を使わずに``\exp(x)``, ``\sin(x)``, ``\cos(x)``の冪級数展開を求めます.
+数値積分の入門のためにフローチャートを作成しました.
+Gauss求積の学習のお伴にどうぞ.
 
-[Overleaf](https://www.overleaf.com/read/cpkzxvzczssn)
+[Overleaf](https://www.overleaf.com/read/sfzqrxbckdwh)
 /
-[PDF](https://drive.google.com/open?id=1otefohLREQurkijJ7Ei_5jFyf-GugiJM)
+[PDF](https://drive.google.com/file/d/1TojTUq4K-c4nqU1V-ZTa53kdFxHqSLzI/view)
 
 
-## 平面上の2円の交点の座標について
-![](img/intersection.png)
-
-解析幾何で2つの円の交点を求めます.
-
-[Overleaf](https://www.overleaf.com/read/qykjnbwdfjrj)
-/
-[PDF](https://drive.google.com/open?id=1cg2xY0FJ3MNmAqzLWA2AUIA64asKhLkY)
-
-
-## ``n+1``点を通る``n-1``次元球面
+## ``n+1``点を通る``n-1``次元球面 (2019/12/15)
 ![](img/sphere.png)
 
 ``n+1``個の点``\bm{p}_i``が``\mathbb{R}^m (n≤m)``上の一般の位置にあるとき, ``\bm{p}_i``を通る``n-1``次元球面``S⊂ℝ^m``が一意的に存在します.
@@ -33,7 +23,7 @@
 [PDF](https://drive.google.com/open?id=1i_fuJQoKcPNZRJoBrZ_K4o6c1SzURgKA)
 
 
-## Riemann多様体上の発散の同値な定義
+## Riemann多様体上の発散の同値な定義 (2019/03/01)
 ![](img/divergence.png)
 
 多様体にRiemann計量を入れるとベクトル場の発散が定義できますが, その流儀は色々あります.
@@ -44,7 +34,8 @@
 [PDF](https://drive.google.com/file/d/1G6l0E1bpyb6v0dj85zfBLuvGO5QTNlMo/view)
 
 
-## NURBS多様体による形状表現
+## NURBS多様体による形状表現 (2018/12/12)
+
 ![](img/nurbs.png)
 
 NURBSは区分有理式を用いて曲線や曲面を表現するための手法です.
@@ -57,18 +48,35 @@ NURBSは区分有理式を用いて曲線や曲面を表現するための手法
 [PDF](https://drive.google.com/open?id=1JK2tBEXQavGOq2nlkpJyoeQC0QoIUOQ3)
 
 
-## 数値積分フローチャート
-![](img/numericalintegralflowchart.png)
+## 微積分に頼らずに幾つかの冪級数を求める (2016/02/27)
+![](img/cossin.png)
 
-数値積分の入門のためにフローチャートを作成しました.
-Gauss求積の学習のお伴にどうぞ.
+[100 Great Problems of Elementary Mathematics](https://www.amazon.co.jp/dp/B00BOKIWSM)の内容をもとに書いた文章です.
+微分や積分を使わずに``\exp(x)``, ``\sin(x)``, ``\cos(x)``の冪級数展開を求めます.
 
-[Overleaf](https://www.overleaf.com/read/sfzqrxbckdwh)
+[Overleaf](https://www.overleaf.com/read/cpkzxvzczssn)
 /
-[PDF](https://drive.google.com/file/d/1TojTUq4K-c4nqU1V-ZTa53kdFxHqSLzI/view)
+[PDF](https://drive.google.com/open?id=1otefohLREQurkijJ7Ei_5jFyf-GugiJM)
 
 
-## LandauのO-記法の厳密な扱い(執筆中)
+## 平方数の和 (2013/03/24)
+![](img/sumofsquare.png)
+平方数の和の公式を視覚的に求めます.
+
+[PDF](https://drive.google.com/file/d/1i6lOCa_ptqMo4RpHuFUNt-DqVaeWPeWB/view?usp=sharing)
+
+
+## 平面上の2円の交点の座標について (2012/08/11)
+![](img/intersection.png)
+
+解析幾何で2つの円の交点を求めます.
+
+[Overleaf](https://www.overleaf.com/read/qykjnbwdfjrj)
+/
+[PDF](https://drive.google.com/open?id=1cg2xY0FJ3MNmAqzLWA2AUIA64asKhLkY)
+
+
+## LandauのO-記法の厳密な扱い (執筆中)
 Landauの記法``O(x)``とかの厳密な扱いについて書いています.
 
 [Overleaf](https://www.overleaf.com/read/hxrrkzkfrwkv)
