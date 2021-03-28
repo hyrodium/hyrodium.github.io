@@ -67,7 +67,7 @@
     * 日程: 2016/02/13 - 2016/02/14
     * 場所: ベルサール秋葉原
     * [佐野さん](https://twitter.com/taketo1024)と一緒に「ぬるぬる動くメビウス変換」(Riemann球面上のMöbius変換を球面ディスプレイで可視化してleap motionで操作する装置)を作りました. GOLD賞でした.
-    * [当時の公式ページ](https://web.archive.org/web/20160215065537/https://hackday.jp/)
+    * [当時の公式ページ](https://web.archive.org/web/20160215065537/https://hackday.jp/) [発表の様子](https://www.youtube.com/watch?v=Aw-YASXbI04)
 * 第4回日曜数学会
     * 日程: 2016/01/30
     * 場所: 東京, Loopolic
@@ -90,3 +90,24 @@
     * 場所: 東京, ベースポイント
     * 「逆数の作図からCayley変換まで」というタイトルでLTしました.
     * [発表資料](https://www.slideshare.net/yutohorikawa/cayley-57826500)
+
+## 2013
+* 小学生対象ロボット教室
+    * 日程: 2013/03/16
+    * 場所: 大阪府立大学高専 CIM実験実習室
+    * リンク機構で歩く8足歩行ロボットを設計し, 地元の小学生たちに作ってもらいました.
+    * [動画](https://www.youtube.com/watch?v=gfHsS54tk1M)
+
+## 2011
+* 小学生対象ロボット教室
+    * 日程: 2011/12/27
+    * 場所: 大阪府立大学高専 CIM実験実習室
+    * リンク機構で歩く2足歩行ロボットを設計し, 地元の小学生たちに作ってもらいました.
+    * [動画](https://www.youtube.com/watch?v=KvYexUbBO1Y)
+
+## 2010
+* RoboCup Junior 世界大会2010
+    * 日程: 2010/06/19 - 2010/06/26
+    * 場所: シンガポール
+    * RoboCup Junior Soccer A部門のsuper teamで1st placeでした.
+    * [当時の記事](https://web.archive.org/web/20100701082429/https://www.asahi.com/national/update/0628/OSK201006280102.html)
