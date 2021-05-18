@@ -2,6 +2,12 @@
 学会発表, 制作物展示, LTなどなど
 
 ## 2021
+* JuliaTokai #10
+    * 日程: 2021/05/15
+    * 場所: オンライン開催
+    * 「Rotations.jlで学ぶ3次元の回転」というタイトルで発表しました.
+    * [発表資料](https://hackmd.io/@hyrodium/SkLSnyku_#/), [イベントページ](https://juliatokai.connpass.com/event/210961/)
+
 * JuliaTokai #9
     * 日程: 2021/02/13
     * 場所: オンライン開催
