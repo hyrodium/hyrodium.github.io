@@ -7,6 +7,7 @@
 ## [ImageClipboard.jl](https://hyrodium.github.io/ImageClipboard.jl/dev/)
 * Juliaでクリップボード上の画像を扱うためのパッケージを作りました.
 * これはそのドキュメントです.
+* [zenn.devで書いた解説記事](https://zenn.dev/hyrodium/articles/764a2462933259)もどうぞ.
 
 ## [blog](https://hyrodium.github.io/blog/)
 * Franklin.jlの練習のために建てたブログ.
