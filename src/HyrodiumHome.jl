@@ -3,11 +3,11 @@ module HyrodiumHome
 using Documenter
 
 
-"""
-Disable generating siteinfo.js
-"""
-function Documenter.Writers.HTMLWriter.generate_siteinfo_file(dir::AbstractString, version::AbstractString)
-end
+# """
+# Disable generating siteinfo.js
+# """
+# function Documenter.Writers.HTMLWriter.generate_siteinfo_file(dir::AbstractString, version::AbstractString)
+# end
 
 # """
 # Redefine gitrm_copy function to produce <repo>/<docs> instead of <repo>/dev/<docs>
