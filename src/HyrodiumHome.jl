@@ -5,12 +5,14 @@ using Documenter
 
 # """
 # Disable generating siteinfo.js
+# The following script is a modified version of the Documenter.jl script. (See LICENSE)
 # """
 # function Documenter.Writers.HTMLWriter.generate_siteinfo_file(dir::AbstractString, version::AbstractString)
 # end
 
 # """
 # Redefine gitrm_copy function to produce <repo>/<docs> instead of <repo>/dev/<docs>
+# The following script is a modified version of the Documenter.jl script. (See LICENSE)
 # """
 # function Documenter.gitrm_copy(src, dst)
 #     repo_dir = splitdir(dst)[1]
@@ -31,6 +33,7 @@ using Documenter
 
 """
 Generate language list
+The following script is a modified version of the Documenter.jl script. (See LICENSE)
 """
 function Documenter.Writers.HTMLWriter.generate_version_file(versionfile::AbstractString, _entries, symlinks = [])
     entries = ["en", "ja"]
@@ -63,6 +66,7 @@ end
 
 """
 Change sidebar wording from "Version" to "Language"
+The following script is a modified version of the Documenter.jl script. (See LICENSE)
 """
 function Documenter.Writers.HTMLWriter.render_sidebar(ctx, navnode)
     @tags a form img input nav div select option span
