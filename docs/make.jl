@@ -13,6 +13,8 @@ makedocs(;
         assets=String[],
         lang="ja",
     ),
+    source="src_ja",
+    build="build_ja",
     pages=[
         "Home" => "index.md",
         "PDF資料" => "pdf.md",
@@ -23,5 +25,7 @@ makedocs(;
 )
 
 deploydocs(;
+    target="build_ja",
+    devurl="ja",
     repo="github.com/hyrodium/hyrodium.github.io"
 )
