@@ -6,6 +6,7 @@ makedocs(;
     authors="hyrodium <hyrodium@gmail.com>",
     repo="https://github.com/hyrodium/hyrodium.github.io/blob/{commit}{path}#L{line}",
     sitename="Hyrodium Home",
+    doctest=false,
     format=Documenter.HTML(;
         prettyurls=true,
         canonical="https://hyrodium.github.io",
