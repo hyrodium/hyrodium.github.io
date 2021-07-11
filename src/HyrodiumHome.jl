@@ -32,7 +32,7 @@ using Documenter
 """
 Generate language list
 """
-function Documenter.generate_version_file(versionfile::AbstractString, _entries, symlinks = [])
+function Documenter.Writers.HTMLWriter.generate_version_file(versionfile::AbstractString, _entries, symlinks = [])
     entries = ["en", "ja"]
     open(versionfile, "w") do buf
         println(buf, "var DOC_VERSIONS = [")
