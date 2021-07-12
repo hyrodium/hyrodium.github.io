@@ -7,7 +7,6 @@
     * Place: Online
     * Title: 「Rotations.jlで学ぶ3次元の回転」 ("Learning 3D rotations with Rotations.jl") 
     * [Slide](https://hackmd.io/@hyrodium/SkLSnyku_#/), [Event page](https://juliatokai.connpass.com/event/210961/)
-
 * JuliaTokai #9
     * Date: 2021/02/13
     * Place: Online

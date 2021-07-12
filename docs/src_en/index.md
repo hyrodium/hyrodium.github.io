@@ -6,11 +6,11 @@
 * Internet Name: Hyrodium
 
 ## History
-* 2019/01-20XX/XX なんらかのしごと2
-* 2019/03-2019/12 なんらかのしごと
-* 2017/04-2019/03 大阪大学院
-* 2015/04-2017/03 大阪大学
-* 2010/04-2015/03 大阪高専
+* 2019/01-20XX/XX Rist
+* 2019/03-2019/12 DMG MORI
+* 2017/04-2019/03 Master course, Osaka University
+* 2015/04-2017/03 Undergraduate course, Osaka University
+* 2010/04-2015/03 Osaka Prefecture University College of Technology
 
 ## Secret info①
 I have two pets: a Mauremys reevesii and a Trachemys scripta.

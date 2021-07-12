@@ -1,4 +1,4 @@
-# PDF docs
+# PDF documents
 
 ## Numerical Intagration Methods Flowchart
 ![](img/numericalintegralflowchart.png)
@@ -25,7 +25,7 @@ Gauss求積の学習のお伴にどうぞ.
 [PDF](https://drive.google.com/open?id=1i_fuJQoKcPNZRJoBrZ_K4o6c1SzURgKA)
 
 
-## Riemann多様体上の発散の同値な定義
+## Equivalent definitions of divergence on Riemannian manifolds
 ![](img/divergence.png)
 
 **(2019/03/01)**\
@@ -51,7 +51,7 @@ NURBSは区分有理式を用いて曲線や曲面を表現するための手法
 [PDF](https://drive.google.com/open?id=1JK2tBEXQavGOq2nlkpJyoeQC0QoIUOQ3)
 
 
-## 微積分に頼らずに幾つかの冪級数を求める
+## Finding power series without calculus
 ![](img/cossin.png)
 
 **(2016/02/27)**\
@@ -63,7 +63,7 @@ NURBSは区分有理式を用いて曲線や曲面を表現するための手法
 [PDF](https://drive.google.com/open?id=1otefohLREQurkijJ7Ei_5jFyf-GugiJM)
 
 
-## 平方数の和
+## Sum of square numbers
 ![](img/sumofsquare.png)
 
 **(2013/03/24)**\
