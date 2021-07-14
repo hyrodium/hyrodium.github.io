@@ -30,7 +30,7 @@ for (root, dirs, files) in walkdir("docs/build_en")
         if file == "index.html"
             path_html = joinpath(root, file)
             script = read(path_html, String)
-            script = replace(script, ">Version<" => ">Language<")
+            script = replace(script, ">Version<" => ">Language(言語)<")
             write(path_html, script)
         end
     end
@@ -71,7 +71,7 @@ for (root, dirs, files) in walkdir("docs/build_ja")
         if file == "index.html"
             path_html = joinpath(root, file)
             script = read(path_html, String)
-            script = replace(script, ">Version<" => ">言語<")
+            script = replace(script, ">Version<" => ">Language(言語)<")
             write(path_html, script)
         end
     end
