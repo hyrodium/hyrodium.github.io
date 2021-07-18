@@ -82,38 +82,11 @@ makedocs(;
 mv("docs/build_404/index.html", "docs/build_404/404.html")
 
 
-# """
-# Disable generating siteinfo.js
-# The following script is a modified version of the Documenter.jl script. (See LICENSE)
-# """
-# function Documenter.Writers.HTMLWriter.generate_siteinfo_file(dir::AbstractString, version::AbstractString)
-# end
-
-# """
-# Redefine gitrm_copy function to produce <repo>/<docs> instead of <repo>/dev/<docs>
-# The following script is a modified version of the Documenter.jl script. (See LICENSE)
-# """
-# function Documenter.gitrm_copy(src, dst)
-#     repo_dir = splitdir(dst)[1]
-
-#     # --ignore-unmatch so that we wouldn't get errors if dst does not exist
-#     run(`git rm -rf --ignore-unmatch $(repo_dir)`)
-#     # git rm also removed parent directories
-#     # if they are empty so need to mkpath after
-#     # mkpath(dst)
-#     mktempdir() do backup
-#         cp(joinpath(repo_dir,".git"), joinpath(backup,".git"))
-#         cp(src, repo_dir; force=true)
-#         cp(joinpath(backup,".git"), joinpath(repo_dir,".git"))
-#     end
-#     cd(repo_dir)
-# end
-
-deploydocs(;
-    target="build_404",
-    repo="github.com/hyrodium/hyrodium.github.io",
-    versions=nothing
-)
+# deploydocs(;
+#     target="build_404",
+#     repo="github.com/hyrodium/hyrodium.github.io",
+#     versions=nothing
+# )
 
 deploydocs(;
     target="build_en",
