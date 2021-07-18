@@ -25,23 +25,6 @@ makedocs(;
     ],
 )
 
-for (root, dirs, files) in walkdir("docs/build_en")
-    for file in files
-        if file == "index.html"
-            path_html = joinpath(root, file)
-            script = read(path_html, String)
-            script = replace(script, ">Version<" => ">Language(言語)<")
-            write(path_html, script)
-        end
-    end
-end
-
-deploydocs(;
-    target="build_en",
-    devurl="en",
-    repo="github.com/hyrodium/hyrodium.github.io"
-)
-
 # Japanese docs
 makedocs(;
     modules=[HyrodiumHome],
@@ -66,16 +49,22 @@ makedocs(;
     ],
 )
 
-for (root, dirs, files) in walkdir("docs/build_ja")
+for (root, dirs, files) in (walkdir("docs/build_en") ∪ walkdir("docs/build_ja"))
     for file in files
         if file == "index.html"
             path_html = joinpath(root, file)
             script = read(path_html, String)
-            script = replace(script, ">Version<" => ">Language(言語)<")
+            script = replace(script, ">Version<" => ">Language / 言語<")
             write(path_html, script)
         end
     end
 end
+
+deploydocs(;
+    target="build_en",
+    devurl="en",
+    repo="github.com/hyrodium/hyrodium.github.io"
+)
 
 deploydocs(;
     target="build_ja",
