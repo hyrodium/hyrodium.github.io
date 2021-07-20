@@ -83,13 +83,9 @@ mv("docs/build_404/index.html", "docs/build_404/404.html")
 
 script = read("docs/build_404/404.html", String)
 script = replace(script, "assets/" => "https://hyrodium.github.io/assets/")
+script = replace(script, """<script src="../versions.js"></script>""" => "")
 write("docs/build_404/404.html", script)
-write("docs/build_404/index.html", """<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="refresh" content="0; url=https://hyrodium.github.io/en" />
-  </head>
-</html>""")
+write("docs/build_404/index.html", """<!DOCTYPE html><html><head><meta http-equiv="refresh" content="0; url=https://hyrodium.github.io/en" /></head></html>""")
 
 deploydocs(;
     target="build_404",
