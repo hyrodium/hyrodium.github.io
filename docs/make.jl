@@ -83,7 +83,8 @@ mv("docs/build_404/index.html", "docs/build_404/404.html")
 
 script = read("docs/build_404/404.html", String)
 script = replace(script, "assets/" => "https://hyrodium.github.io/assets/")
-script = replace(script, """<script src="../versions.js"></script>""" => "")
+script = replace(script, "../versions.js" => "https://hyrodium.github.io/versions.js")
+script = replace(script, ">Version<" => ">Language / 言語<")
 write("docs/build_404/404.html", script)
 write("docs/build_404/index.html", """<!DOCTYPE html><html><head><meta http-equiv="refresh" content="0; url=https://hyrodium.github.io/en" /></head></html>""")
 
