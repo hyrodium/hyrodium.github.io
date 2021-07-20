@@ -81,12 +81,21 @@ makedocs(;
 )
 mv("docs/build_404/index.html", "docs/build_404/404.html")
 
+script = read("docs/build_404/404.html", String)
+script = replace(script, "assets/" => "https://hyrodium.github.io/assets/")
+write("docs/build_404/404.html", script)
+write("docs/build_404/index.html", """<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=https://hyrodium.github.io/ImageClipboard.jl/stable" />
+  </head>
+</html>""")
 
-# deploydocs(;
-#     target="build_404",
-#     repo="github.com/hyrodium/hyrodium.github.io",
-#     versions=nothing
-# )
+deploydocs(;
+    target="build_404",
+    repo="github.com/hyrodium/hyrodium.github.io",
+    versions=nothing
+)
 
 deploydocs(;
     target="build_en",
