@@ -6,7 +6,8 @@
 * Internet Name: Hyrodium
 
 ## History
-* 2019/01-20XX/XX Rist
+* 2021/05-20xx/xx Visiting Researcher, Osaka University
+* 2020/01-20xx/xx Rist
 * 2019/04-2019/12 DMG MORI
 * 2017/04-2019/03 Master course, Osaka University
 * 2015/04-2017/03 Undergraduate course, Osaka University
