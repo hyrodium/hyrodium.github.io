@@ -7,7 +7,7 @@
 
 ## History
 * 2019/01-20XX/XX Rist
-* 2019/03-2019/12 DMG MORI
+* 2019/04-2019/12 DMG MORI
 * 2017/04-2019/03 Master course, Osaka University
 * 2015/04-2017/03 Undergraduate course, Osaka University
 * 2010/04-2015/03 Osaka Prefecture University College of Technology
