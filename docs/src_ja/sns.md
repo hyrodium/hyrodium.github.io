@@ -3,6 +3,7 @@
 * [Twitter](https://twitter.com/Hyrodium)  一番よく居ます
 * [Tumblr](https://hyrodium.tumblr.com) 絵とか投稿してます
 * [GitHub](https://github.com/hyrodium) スターください！
+* [Booth](https://hyrodium.booth.pm/) 私の作品が買えます！課金してくれ！！
 * [Facebook](https://www.facebook.com/hyrodium) ほぼログインしてませんが, 一応
 * [YouTube](https://www.youtube.com/user/Hyrodium) チャンネル登録をクリック！
 * [Mathtodon](https://mathtod.online/@hyrodium) 数学の話をしてます
