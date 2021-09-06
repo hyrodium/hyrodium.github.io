@@ -9,6 +9,9 @@
 * これはそのドキュメントです.
 * [zenn.devで書いた解説記事](https://zenn.dev/hyrodium/articles/764a2462933259)もどうぞ.
 
+## [多様体論セミナー記録](https://hyrodium.github.io/manifold-seminar/)
+* 所属研究室でやっている多様体論セミナーの記録
+
 ## [blog](https://hyrodium.github.io/blog/)
 * Franklin.jlの練習のために建てたブログ.
 * 日々の記録だけで有益な情報は無いです.
