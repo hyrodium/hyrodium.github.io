@@ -3,6 +3,7 @@
 * [Twitter](https://twitter.com/Hyrodium): I'm always here.
 * [Tumblr](https://hyrodium.tumblr.com): I'm posting mathematical animations and etc.
 * [GitHub](https://github.com/hyrodium): Give stars to my repo!
+* [Booth](https://hyrodium.booth.pm/): Buy my works!
 * [Facebook](https://www.facebook.com/hyrodium): I don't log in most of the time, but just in case.
 * [YouTube](https://www.youtube.com/user/Hyrodium): Subscribe! Subscribe! Subscribe!
 * [Mathtodon](https://mathtod.online/@hyrodium): Mathtodon is a Math-specified SNS, and I'm here.

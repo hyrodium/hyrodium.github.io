@@ -2,7 +2,7 @@
 
 ## 基本情報
 * 名前: 堀川 由人 (Horikawa Yuto)
-* Internet Name: Hyrodium
+* Internet Name: Hyrodium, ほりたみゅ
 
 ## 学職歴
 * 2021/05-20xx/xx 大阪大学院(招聘研究員)
