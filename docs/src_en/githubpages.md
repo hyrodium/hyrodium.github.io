@@ -8,7 +8,3 @@
 * A Julia package for images in the system clipboard.
 * This is a document for the package.
 * See also [an article in zenn.dev](https://zenn.dev/hyrodium/articles/764a2462933259). (only in Japanese)
-
-## [blog](https://hyrodium.github.io/blog/)
-* Blog made with Franklin.jl
-* Nothing useful infomations here.
