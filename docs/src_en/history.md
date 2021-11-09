@@ -2,6 +2,11 @@
 学会発表, 制作物展示, LTなどなど
 
 ## 2021
+* 材料科学における幾何と代数II
+    * Date: 2021/08/30 - 2021/08/31
+    * Place: Online
+    * Title: 「Riemann 多様体上の弾性論と編み紙への応用」
+    * [Event page](https://www.imi.kyushu-u.ac.jp/kyodo-riyo/research_meetings/view/23)
 * JuliaTokai #10
     * Date: 2021/05/15
     * Place: Online
