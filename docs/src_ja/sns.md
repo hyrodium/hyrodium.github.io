@@ -4,6 +4,7 @@
 * [Tumblr](https://hyrodium.tumblr.com) 絵とか投稿してます
 * [GitHub](https://github.com/hyrodium) スターください！
 * [Booth](https://hyrodium.booth.pm/) 私の作品が買えます！課金してくれ！！
+* [Mathlog](https://mathlog.info/users/1509/articles) 数学関連の記事があります。
 * [Facebook](https://www.facebook.com/hyrodium) ほぼログインしてませんが, 一応
 * [YouTube](https://www.youtube.com/user/Hyrodium) チャンネル登録をクリック！
 * [Mathtodon](https://mathtod.online/@hyrodium) 数学の話をしてます
