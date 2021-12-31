@@ -2,11 +2,11 @@
 学会発表, 制作物展示, LTなどなど
 
 ## 2021
-* Ristaaalk!! #9
-    * 日程: 2021/11/29
+* JuliaTokai #11 年末LT大会
+    * 日程: 2021/12/19
     * 場所: オンライン開催
-    * 「Juliaで自動微分しようぜ！」というタイトルで社内LTの発表をしました.
-    * https://hackmd.io/@hyrodium/B19ZHTkKK#/1
+    * 「Juliaの微分法いろいろ」というタイトルで発表しました。
+    * [発表資料](https://hackmd.io/@hyrodium/rJrJ23j9t#/1), [イベントページ](https://juliatokai.connpass.com/event/232791/)
 * 材料科学における幾何と代数II
     * 日程: 2021/08/30 - 2021/08/31
     * 場所: オンライン開催
