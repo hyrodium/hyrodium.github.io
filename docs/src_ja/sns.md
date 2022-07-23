@@ -13,6 +13,9 @@
 * [Medium](https://medium.com/@Hyrodium) 文章を書いてます
 * [Qiita](https://qiita.com/Hyrodium) プログラミング関係の記事があります
 * [zenn.dev](https://zenn.dev/hyrodium) プログラミング関係の記事があります2
+* [The Julia Forem](https://forem.julialang.org/hyrodium) JuliaのForemのアカウント
+* [Julia Discourse](https://discourse.julialang.org/u/hyrodium) JuliaのDiscourseのアカウント
+* [Docswell](https://www.docswell.com/user/hyrodium) SlideShareからDocswellに移行中です！
 * [SlideShare](https://www.slideshare.net/yutohorikawa) 昔のスライドとかあります
 * [makebooth](http://makebooth.com/booth/hyrodium) 昔の作品とかあります (サービス終了っぽいので無効なリンクです、とても悲しい)
 * [Giphy](https://giphy.com/channel/hyrodium) 数学GIFとかあります
