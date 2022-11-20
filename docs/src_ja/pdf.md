@@ -7,6 +7,8 @@
 初めてarXivに投稿した論文！紙を編んで滑らかな曲面を作る理論です。
 日本語解説は[こちら](https://twitter.com/Hyrodium/status/1592133224876363776)。
 
+[arXiv](https://arxiv.org/abs/2211.06372)
+
 ## 数値積分フローチャート
 ![](img/numericalintegralflowchart.png)
 

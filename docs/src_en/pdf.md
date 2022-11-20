@@ -4,7 +4,9 @@
 ![](img/weaving.png)
 
 **(2022/11/11)**\
-My first paper on arXiv!
+My first paper on arXiv! This paper provides my theory about creating smooth surface by weaving paper strips.
+
+[arXiv](https://arxiv.org/abs/2211.06372)
 
 ## Numerical Intagration Methods Flowchart (Japanese)
 ![](img/numericalintegralflowchart.png)
