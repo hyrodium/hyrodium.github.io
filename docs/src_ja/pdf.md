@@ -1,5 +1,12 @@
 # PDF資料
 
+## Weaving paper strips for designing of general curved surface with geometrical elasticity (English)
+![](img/weaving.png)
+
+**(2022/11/11)**\
+初めてarXivに投稿した論文！紙を編んで滑らかな曲面を作る理論です。
+日本語解説は[こちら](https://twitter.com/Hyrodium/status/1592133224876363776)。
+
 ## 数値積分フローチャート
 ![](img/numericalintegralflowchart.png)
 

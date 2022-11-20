@@ -1,6 +1,12 @@
 # PDF documents
 
-## Numerical Intagration Methods Flowchart
+## Weaving paper strips for designing of general curved surface with geometrical elasticity (English)
+![](img/weaving.png)
+
+**(2022/11/11)**\
+My first paper on arXiv!
+
+## Numerical Intagration Methods Flowchart (Japanese)
 ![](img/numericalintegralflowchart.png)
 
 **(2021/01/01)**\
@@ -12,7 +18,7 @@ Gauss求積の学習のお伴にどうぞ.
 [PDF](https://drive.google.com/file/d/1TojTUq4K-c4nqU1V-ZTa53kdFxHqSLzI/view)
 
 
-## ``n-1``dimensional sphere passing through ``n+1`` points
+## ``n-1``dimensional sphere passing through ``n+1`` points (Japanese)
 ![](img/sphere.png)
 
 **(2019/12/15)**\
@@ -25,7 +31,7 @@ Gauss求積の学習のお伴にどうぞ.
 [PDF](https://drive.google.com/open?id=1i_fuJQoKcPNZRJoBrZ_K4o6c1SzURgKA)
 
 
-## Equivalent definitions of divergence on Riemannian manifolds
+## Equivalent definitions of divergence on Riemannian manifolds (Japanese)
 ![](img/divergence.png)
 
 **(2019/03/01)**\
@@ -37,7 +43,7 @@ Gauss求積の学習のお伴にどうぞ.
 [PDF](https://drive.google.com/file/d/1G6l0E1bpyb6v0dj85zfBLuvGO5QTNlMo/view)
 
 
-## Shape representation with NURBS-manifold
+## Shape representation with NURBS-manifold (Japanese)
 ![](img/nurbs.png)
 
 **(2018/12/12)**\
@@ -51,7 +57,7 @@ NURBSは区分有理式を用いて曲線や曲面を表現するための手法
 [PDF](https://drive.google.com/open?id=1JK2tBEXQavGOq2nlkpJyoeQC0QoIUOQ3)
 
 
-## Finding power series without calculus
+## Finding power series without calculus (Japanese)
 ![](img/cossin.png)
 
 **(2016/02/27)**\
@@ -72,7 +78,7 @@ NURBSは区分有理式を用いて曲線や曲面を表現するための手法
 [PDF](https://drive.google.com/file/d/1i6lOCa_ptqMo4RpHuFUNt-DqVaeWPeWB/view?usp=sharing)
 
 
-## 平面上の2円の交点の座標について
+## 平面上の2円の交点の座標について (Japanese)
 ![](img/intersection.png)
 
 **(2012/08/11)**\
