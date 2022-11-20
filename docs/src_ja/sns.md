@@ -1,6 +1,6 @@
 # SNS・連絡先
 
-* [Twitter](https://twitter.com/Hyrodium)  一番よく居ます
+* [Twitter](https://twitter.com/Hyrodium)  一番よく居ますがmathtodonに移行するかも
 * [Tumblr](https://hyrodium.tumblr.com) 絵とか投稿してます
 * [GitHub](https://github.com/hyrodium) スターください！
 * [Booth](https://hyrodium.booth.pm/) 私の作品が買えます！課金してくれ！！
@@ -8,6 +8,7 @@
 * [Facebook](https://www.facebook.com/hyrodium) ほぼログインしてませんが, 一応
 * [YouTube](https://www.youtube.com/user/Hyrodium) チャンネル登録をクリック！
 * [Mathtodon](https://mathtod.online/@hyrodium) 数学の話をしてます
+* [Mastodon (Julia)](https://julialang.social/@hyrodium) こっちのMastodonは英語
 * [Instagram](https://www.instagram.com/hyrodium/) 映えてます
 * [HackMD](https://hackmd.io/@hyrodium/) 数学の文章とか, スライドとか
 * [Medium](https://medium.com/@Hyrodium) 文章を書いてます

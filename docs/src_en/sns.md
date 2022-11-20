@@ -8,6 +8,7 @@
 * [Facebook](https://www.facebook.com/hyrodium): I don't log in most of the time, but just in case.
 * [YouTube](https://www.youtube.com/user/Hyrodium): Subscribe! Subscribe! Subscribe!
 * [Mathtodon](https://mathtod.online/@hyrodium): Mathtodon is a Math-specified SNS, and I'm here.
+* [Mastodon (Julia)](https://julialang.social/@hyrodium): Another account for Mastodon.
 * [Instagram](https://www.instagram.com/hyrodium/): yes, INSTAGRAMMABLE
 * [HackMD](https://hackmd.io/@hyrodium/): Mathematical article, slides and etc.
 * [Medium](https://medium.com/@Hyrodium): Writing articles
