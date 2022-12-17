@@ -18,6 +18,7 @@
     * 場所: オンライン開催
     * 「Riemann 多様体上の弾性論と編み紙への応用」というタイトルで発表しました.
     * [イベントページ](https://www.imi.kyushu-u.ac.jp/kyodo-riyo/research_meetings/view/23)
+    * [発表資料](https://www.overleaf.com/read/bwkzhvjwbqfx)
 * JuliaTokai #10
     * 日程: 2021/05/15
     * 場所: オンライン開催
@@ -57,11 +58,13 @@
 * 第31回計算力学講演会
     * 日程: 2018/11/23 - 2018/11/25
     * 場所: 徳島大学 常三島キャンパス
-    * 「アイソジオメトリック解析を用いた曲面展開論」というタイトルでポスター発表しました.
+    * 「アイソジオメトリック解析を用いた曲面展開論」というタイトルでポスター発表しました.若手優秀講演フェロー賞でした。
+    * [発表資料](https://www.overleaf.com/read/vzgfskrzvkpv)
 * MMM2018
     * 日程: 2018/10/28 - 2018/11/02
     * 場所: 大阪府立国際会議場
     * 「Nonlinear elasticity on Riemannian manifold and its application to general surface development」というタイトルでポスター発表しました. Poster Awardでした.
+    * [発表資料](https://www.overleaf.com/read/crxybbrsgfbx)
 * MathPower2018
     * 日程: 2018/10/06 - 2018/10/07
     * 場所: 六本木ニコファーレ
@@ -71,6 +74,7 @@
     * 日程: 2018/09/03 - 2018/09/05
     * 場所: 名古屋大学 東山キャンパス
     * 「編み紙の数理」というタイトルで口頭発表しました.
+    * [発表資料](https://hackmd.io/@hyrodium/Byps6Q4vm#/)
 * Maker Faire Tokyo 2018
     * 日程: 2018/08/04 - 2018/08/05
     * 場所: 東京ビッグサイト
