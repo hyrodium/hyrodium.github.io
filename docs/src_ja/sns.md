@@ -20,4 +20,5 @@
 * [SlideShare](https://www.slideshare.net/yutohorikawa) 昔のスライドとかあります
 * [makebooth](http://makebooth.com/booth/hyrodium) 昔の作品とかあります (サービス終了っぽいので無効なリンクです、とても悲しい)
 * [Giphy](https://giphy.com/channel/hyrodium) 数学GIFとかあります
+* [note](https://note.com/hyrodium) 記事があります
 * [Mail](mailto:hyrodium@gmail.com) あまり反応は早くないです
