@@ -21,8 +21,7 @@
     * 日程: 2021/08/30 - 2021/08/31
     * 場所: オンライン開催
     * 「Riemann 多様体上の弾性論と編み紙への応用」というタイトルで発表しました.
-    * [イベントページ](https://www.imi.kyushu-u.ac.jp/kyodo-riyo/research_meetings/view/23)
-    * [発表資料](https://www.overleaf.com/read/bwkzhvjwbqfx)
+    * [発表資料](https://www.overleaf.com/read/bwkzhvjwbqfx), [イベントページ](https://www.imi.kyushu-u.ac.jp/kyodo-riyo/research_meetings/view/23)
 * JuliaTokai #10
     * 日程: 2021/05/15
     * 場所: オンライン開催
@@ -88,8 +87,7 @@
     * 日程: 2018/04/21
     * 場所: 梅田北新地店 第４会議室
     * 「Frobeniusの定理」というタイトルでLTしました.
-    * [発表資料](https://hackmd.io/p/Hkvm0AE3f#/1)
-    * [発表動画](https://www.youtube.com/watch?v=dZ8HO4T3ljg)
+    * [発表資料](https://hackmd.io/p/Hkvm0AE3f#/1), [発表の様子](https://www.youtube.com/watch?v=dZ8HO4T3ljg)
 
 ## 2016
 * HackDay2016
