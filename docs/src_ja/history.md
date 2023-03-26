@@ -5,7 +5,7 @@
 * JuliaTokai #14
     * 日程: 2023/03/26
     * 「Desmos.jlをつくってる話」というタイトルで発表しました。
-    * [発表資料](https://hackmd.io/@hyrodium/BJ9Nmxnx3#/), [イベントページ](https://juliatokai.connpass.com/event/277144/presentation/)
+    * [発表資料](https://hackmd.io/@hyrodium/BJ9Nmxnx3#/1), [イベントページ](https://juliatokai.connpass.com/event/277144/presentation/)
 * 第2回3分数学
     * 日程: 2023/03/14
     * 「敷き詰めリンク機構」というタイトルで発表しました。
