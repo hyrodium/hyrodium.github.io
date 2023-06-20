@@ -10,10 +10,6 @@
     * 日程: 2023/07/22 - 2023/07/23
     * [螺鈿屋ロイローニ](https://twitter.com/loilouni)さんと共同出展で物販する予定です。(出展は土曜のみ)
     * [個別ページ](http://hakubutufesshoukai.blog.fc2.com/blog-entry-2623.html), [イベントページ](https://www.hakubutufes.info/)
-* 博物ふぇすてぃばる！
-    * 日程: 2023/07/22 - 2023/07/23
-    * [螺鈿屋ロイローニ](https://twitter.com/loilouni)さんと共同出典で物販する予定です。(土曜のみ)
-    * [イベントページ](https://juliatokai.connpass.com/event/285448/)
 * 数学と物理におけるJuliaの活用
     * 日程: 2023/07/10 - 2023/07/12
     * 場所: 九州大学伊都キャンパス マス・フォア・インダストリ研究所
