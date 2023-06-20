@@ -2,10 +2,35 @@
 学会発表, 制作物展示, LTなどなど
 
 ## 2023
+* JuliaCon2023
+    * 日程: 2023/07/25 - 2023/07/29
+    * 「Creating smooth surface models with ElasticSurfaceEmbedding.jl」というタイトルで発表予定です。
+    * [個別ページ](https://pretalx.com/juliacon2023/talk/RBHAER/), [イベントページ](https://juliacon.org/2023/)
+* 博物ふぇすてぃばる！9
+    * 日程: 2023/07/22 - 2023/07/23
+    * [螺鈿屋ロイローニ](https://twitter.com/loilouni)さんと共同出展で物販する予定です。(出展は土曜のみ)
+    * [個別ページ](http://hakubutufesshoukai.blog.fc2.com/blog-entry-2623.html), [イベントページ](https://www.hakubutufes.info/)
+* 博物ふぇすてぃばる！
+    * 日程: 2023/07/22 - 2023/07/23
+    * [螺鈿屋ロイローニ](https://twitter.com/loilouni)さんと共同出典で物販する予定です。(土曜のみ)
+    * [イベントページ](https://juliatokai.connpass.com/event/285448/)
+* 数学と物理におけるJuliaの活用
+    * 日程: 2023/07/10 - 2023/07/12
+    * 場所: 九州大学伊都キャンパス マス・フォア・インダストリ研究所
+    * 「BasicBSpline.jlで始めるB-spline」というタイトルで発表予定です。
+    * [イベントページ](https://akio-tomiya.github.io/julia_imi_workshop2023/)
+* JuliaTokai #15
+    * 日程: 2023/06/25
+    * 何か話す予定です。
+    * [イベントページ](https://juliatokai.connpass.com/event/285448/)
+* テセレーションの集い02
+    * 日程: 2023/06/17
+    * 「編み紙で立体射影」というタイトルで作品展示しました。
+    * [イベントページ](https://www.tessellation.jp/event/20230617)
 * JuliaTokai #14
     * 日程: 2023/03/26
     * 「Desmos.jlをつくってる話」というタイトルで発表しました。
-    * [発表資料](https://hackmd.io/@hyrodium/BJ9Nmxnx3#/1), [イベントページ](https://juliatokai.connpass.com/event/277144/presentation/)
+    * [発表資料](https://hackmd.io/@hyrodium/BJ9Nmxnx3#/1), [イベントページ](https://juliatokai.connpass.com/event/277144/)
 * 第2回3分数学
     * 日程: 2023/03/14
     * 「敷き詰めリンク機構」というタイトルで発表しました。
