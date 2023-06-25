@@ -17,8 +17,8 @@
     * [イベントページ](https://akio-tomiya.github.io/julia_imi_workshop2023/)
 * JuliaTokai #15
     * 日程: 2023/06/25
-    * 何か話す予定です。
-    * [イベントページ](https://juliatokai.connpass.com/event/285448/)
+    * 「IntervalSets.jlの話」というタイトルで発表しました。
+    * [発表資料](https://hackmd.io/@hyrodium/HkrRC7ru3#/1), [イベントページ](https://juliatokai.connpass.com/event/285448/)
 * テセレーションの集い02
     * 日程: 2023/06/17
     * 「編み紙で立体射影」というタイトルで作品展示しました。
