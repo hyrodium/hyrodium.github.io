@@ -14,7 +14,7 @@
     * 日程: 2023/07/10 - 2023/07/12
     * 場所: 九州大学伊都キャンパス マス・フォア・インダストリ研究所
     * 「BasicBSpline.jlで始めるB-spline」というタイトルで発表予定です。
-    * [イベントページ](https://akio-tomiya.github.io/julia_imi_workshop2023/)
+    * [発表資料](https://www.docswell.com/s/hyrodium/5Q89MJ-B-spline), [イベントページ](https://akio-tomiya.github.io/julia_imi_workshop2023/)
 * JuliaTokai #15
     * 日程: 2023/06/25
     * 「IntervalSets.jlの話」というタイトルで発表しました。
