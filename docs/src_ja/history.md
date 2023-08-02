@@ -4,11 +4,11 @@
 ## 2023
 * JuliaCon2023
     * 日程: 2023/07/25 - 2023/07/29
-    * 「Creating smooth surface models with ElasticSurfaceEmbedding.jl」というタイトルで発表予定です。
-    * [個別ページ](https://pretalx.com/juliacon2023/talk/RBHAER/), [イベントページ](https://juliacon.org/2023/)
+    * 「Creating smooth surface models with ElasticSurfaceEmbedding.jl」というタイトルで発表予定しました。
+    * [発表資料](https://www.docswell.com/s/hyrodium/5JL8EQ-JuliaCon2023), [個別ページ](https://pretalx.com/juliacon2023/talk/RBHAER/), [イベントページ](https://juliacon.org/2023/)
 * 博物ふぇすてぃばる！9
     * 日程: 2023/07/22 - 2023/07/23
-    * [螺鈿屋ロイローニ](https://twitter.com/loilouni)さんと共同出展で物販する予定です。(出展は土曜のみ)
+    * [螺鈿屋ロイローニ](https://twitter.com/loilouni)さんと共同出展で初めての物販をしました。(出展は土曜のみ)
     * [個別ページ](http://hakubutufesshoukai.blog.fc2.com/blog-entry-2623.html), [イベントページ](https://www.hakubutufes.info/)
 * 数学と物理におけるJuliaの活用
     * 日程: 2023/07/10 - 2023/07/12
