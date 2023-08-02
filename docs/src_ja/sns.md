@@ -1,6 +1,7 @@
 # SNS・連絡先
 
-* [Twitter](https://twitter.com/Hyrodium)  一番よく居ますがmathtodonに移行するかも
+* [Bluesky](https://bsky.app/profile/hyrodium.bsky.social) Twitterからの移住先として現時点で最有力です。
+* [Twitter](https://twitter.com/Hyrodium) 別SNSに移住しています。
 * [Tumblr](https://hyrodium.tumblr.com) 絵とか投稿してます
 * [GitHub](https://github.com/hyrodium) スターください！
 * [Booth](https://hyrodium.booth.pm/) 私の作品が買えます！課金してくれ！！
