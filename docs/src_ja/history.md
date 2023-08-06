@@ -2,9 +2,13 @@
 学会発表, 制作物展示, LTなどなど
 
 ## 2023
+* 日本数学協会2023年度 年次大会
+    * 日程: 2023/09/02
+    * 「編み紙工作ワークショップ（理論解説付き）」というタイトルで発表予定です。
+    * [告知ページ](https://www.sugaku-bunka.org/#_1493)
 * JuliaCon2023
     * 日程: 2023/07/25 - 2023/07/29
-    * 「Creating smooth surface models with ElasticSurfaceEmbedding.jl」というタイトルで発表予定しました。
+    * 「Creating smooth surface models with ElasticSurfaceEmbedding.jl」というタイトルで発表しました。
     * [発表資料](https://www.docswell.com/s/hyrodium/5JL8EQ-JuliaCon2023), [個別ページ](https://pretalx.com/juliacon2023/talk/RBHAER/), [イベントページ](https://juliacon.org/2023/)
 * 博物ふぇすてぃばる！9
     * 日程: 2023/07/22 - 2023/07/23
@@ -13,7 +17,7 @@
 * 数学と物理におけるJuliaの活用
     * 日程: 2023/07/10 - 2023/07/12
     * 場所: 九州大学伊都キャンパス マス・フォア・インダストリ研究所
-    * 「BasicBSpline.jlで始めるB-spline」というタイトルで発表予定です。
+    * 「BasicBSpline.jlで始めるB-spline」というタイトルで発表しました。
     * [発表資料](https://www.docswell.com/s/hyrodium/5Q89MJ-B-spline), [イベントページ](https://akio-tomiya.github.io/julia_imi_workshop2023/)
 * JuliaTokai #15
     * 日程: 2023/06/25
