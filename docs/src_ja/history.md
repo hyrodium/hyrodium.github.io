@@ -4,14 +4,17 @@
 ## 2023
 * 日本数学協会2023年度 年次大会
     * 日程: 2023/09/02
-    * 「編み紙工作ワークショップ（理論解説付き）」というタイトルで発表予定です。
-    * [告知ページ](https://www.sugaku-bunka.org/#_1493)
+    * 場所: 新宿３丁目ビックスビル店会議室 （㈱ルノアール）
+    * 「編み紙工作ワークショップ（理論解説付き）」というタイトルで発表しました。
+    * [告知ページ](https://www.sugaku-bunka.org/#_1493), [発表資料](https://hackmd.io/@hyrodium/SyLQ51bTh#/)
 * JuliaCon2023
     * 日程: 2023/07/25 - 2023/07/29
+    * 場所: MIT
     * 「Creating smooth surface models with ElasticSurfaceEmbedding.jl」というタイトルで発表しました。
     * [発表資料](https://www.docswell.com/s/hyrodium/5JL8EQ-JuliaCon2023), [個別ページ](https://pretalx.com/juliacon2023/talk/RBHAER/), [イベントページ](https://juliacon.org/2023/)
 * 博物ふぇすてぃばる！9
     * 日程: 2023/07/22 - 2023/07/23
+    * 場所: 科学技術館
     * [螺鈿屋ロイローニ](https://twitter.com/loilouni)さんと共同出展で初めての物販をしました。(出展は土曜のみ)
     * [個別ページ](http://hakubutufesshoukai.blog.fc2.com/blog-entry-2623.html), [イベントページ](https://www.hakubutufes.info/)
 * 数学と物理におけるJuliaの活用
@@ -21,28 +24,34 @@
     * [発表資料](https://www.docswell.com/s/hyrodium/5Q89MJ-B-spline), [イベントページ](https://akio-tomiya.github.io/julia_imi_workshop2023/)
 * JuliaTokai #15
     * 日程: 2023/06/25
+    * 場所: オンライン開催
     * 「IntervalSets.jlの話」というタイトルで発表しました。
     * [発表資料](https://hackmd.io/@hyrodium/HkrRC7ru3#/1), [イベントページ](https://juliatokai.connpass.com/event/285448/)
 * テセレーションの集い02
     * 日程: 2023/06/17
+    * 場所: 板橋区立教育科学館
     * 「編み紙で立体射影」というタイトルで作品展示しました。
     * [イベントページ](https://www.tessellation.jp/event/20230617)
 * JuliaTokai #14
     * 日程: 2023/03/26
+    * 場所: オンライン開催
     * 「Desmos.jlをつくってる話」というタイトルで発表しました。
     * [発表資料](https://hackmd.io/@hyrodium/BJ9Nmxnx3#/1), [イベントページ](https://juliatokai.connpass.com/event/277144/)
 * 第2回3分数学
     * 日程: 2023/03/14
+    * 場所: オンライン開催
     * 「敷き詰めリンク機構」というタイトルで発表しました。
     * [発表資料](https://hackmd.io/@hyrodium/rJMA7Aayn#/1)
 
 ## 2022
 * JuliaTokai #13 年末LT大会2022
     * 日程: 2022/12/18
+    * 場所: オンライン開催
     * 「紙を編んで曲面をつくろう！」というタイトルで発表しました。
     * [発表資料](https://hackmd.io/@hyrodium/BJiGL8ido#/1)
 * 社内ツール勉強会
     * 日程: 2022/08/19
+    * 場所: オンライン開催
     * 「Desmosと初めてのChrome拡張」というタイトルで発表しました。
     * [発表資料](https://hackmd.io/@hyrodium/Bym6XcQR5#/1)
 
