@@ -1,6 +1,16 @@
 # 出展・発表歴
 学会発表, 制作物展示, LTなどなど
 
+## 2024
+* JuliaTokai #18
+    * 日程: 2024/03/16
+    * 「RecipesBase.jlでプロットレシピを定義しよう！」というタイトルで発表しました。
+    * [告知ページ](https://juliatokai.connpass.com/event/310955/), [発表資料](https://hackmd.io/@hyrodium/HytKvKx06#/)
+* JuliaTokyo #11
+    * 日程: 2024/02/03
+    * 「Julia Package Comparisonsの紹介と勧誘」というタイトルで発表しました。
+    * [告知ページ](https://juliatokyo.connpass.com/event/306300/), [発表資料](https://hackmd.io/@hyrodium/rJ0aIzqta#/1)
+
 ## 2023
 * JuliaTokai #17 年末LT大会2023
     * 日程: 2023/12/10
