@@ -17,6 +17,7 @@ makedocs(;
     ),
     source="src_en",
     build="build_en",
+    warnonly=true,
     pages=[
         "Home" => "index.md",
         "PDF documents" => "pdf.md",
@@ -42,6 +43,7 @@ makedocs(;
     ),
     source="src_ja",
     build="build_ja",
+    warnonly=true,
     pages=[
         "Home" => "index.md",
         "PDF資料" => "pdf.md",
@@ -78,6 +80,7 @@ makedocs(;
     ),
     source="src_404",
     build="build_404",
+    warnonly=true,
     pages=[
         "404" => "index.md",
     ],
