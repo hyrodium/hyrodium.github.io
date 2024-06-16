@@ -2,6 +2,14 @@
 学会発表, 制作物展示, LTなどなど
 
 ## 2024
+* CVPR2024
+    * 日程: 2024/06/17 - 2024/06/21
+    * 「Pre-training Vision Models with Mandelbulb Variations」というタイトルでポスター発表しました。
+    * [イベントページ](), [関連論文]()
+* IUTAM Symposium on Mechanics of Soft Materials and Soft Robots
+    * 日程: 2024/05/17 - 2024/05/18
+    * 「Weaving paper strips for creating a general smooth surface with geometric elasticity」というタイトルでポスター発表しました。
+    * [イベントページ](https://sites.google.com/view/iutam-msmsr/home)
 * JuliaTokai #18
     * 日程: 2024/03/16
     * 「RecipesBase.jlでプロットレシピを定義しよう！」というタイトルで発表しました。
