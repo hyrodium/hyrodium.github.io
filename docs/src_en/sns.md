@@ -1,6 +1,7 @@
 # SNS and etc.
 
-* [Twitter](https://twitter.com/Hyrodium): I'm always here.
+* [Bluesky](https://bsky.app/profile/hyrodium.bsky.social): I'm always here.
+* [Twitter](https://twitter.com/Hyrodium): I'm no longer here.
 * [Tumblr](https://hyrodium.tumblr.com): I'm posting mathematical animations and etc.
 * [GitHub](https://github.com/hyrodium): Give stars to my repo!
 * [Booth](https://hyrodium.booth.pm/): Buy my works!
@@ -20,4 +21,5 @@
 * [SlideShare](https://www.slideshare.net/yutohorikawa): Slides
 * [makebooth](http://makebooth.com/booth/hyrodium): Works (makebooth was one of my favorite internet service, but the service is terminated. really sad.)
 * [Giphy](https://giphy.com/channel/hyrodium): Mathematical GIF animations
+* [note](https://note.com/hyrodium): Some articles (Japanese)
 * [Mail](mailto:hyrodium@gmail.com): Not quick response, I guess.
