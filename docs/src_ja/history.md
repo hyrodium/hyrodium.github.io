@@ -5,7 +5,7 @@
 * CVPR2024
     * 日程: 2024/06/17 - 2024/06/21
     * 「Pre-training Vision Models with Mandelbulb Variations」というタイトルでポスター発表しました。
-    * [イベントページ](), [関連論文]()
+    * [イベントページ](https://cvpr.thecvf.com/Conferences/2024), [関連論文](https://openaccess.thecvf.com/content/CVPR2024/html/Chiche_Pre-training_Vision_Models_with_Mandelbulb_Variations_CVPR_2024_paper.html), [関連リポジトリ](https://github.com/RistoranteRist/MandelbulbVariationsGenerator)
 * IUTAM Symposium on Mechanics of Soft Materials and Soft Robots
     * 日程: 2024/05/17 - 2024/05/18
     * 「Weaving paper strips for creating a general smooth surface with geometric elasticity」というタイトルでポスター発表しました。
