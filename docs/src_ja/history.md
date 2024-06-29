@@ -2,6 +2,10 @@
 学会発表, 制作物展示, LTなどなど
 
 ## 2024
+* JuliaTokai #18
+    * 日程: 2024-06-30
+    * 「2次補間法をJuliaで実装してみた」というタイトルで発表しました。
+    * [イベントページ](https://juliatokai.connpass.com/event/318617/), [発表資料](https://hackmd.io/@hyrodium/r1HUhB2L0#/)
 * CVPR2024
     * 日程: 2024/06/17 - 2024/06/21
     * 「Pre-training Vision Models with Mandelbulb Variations」というタイトルでポスター発表しました。
@@ -13,33 +17,33 @@
 * JuliaTokai #18
     * 日程: 2024/03/16
     * 「RecipesBase.jlでプロットレシピを定義しよう！」というタイトルで発表しました。
-    * [告知ページ](https://juliatokai.connpass.com/event/310955/), [発表資料](https://hackmd.io/@hyrodium/HytKvKx06#/)
+    * [イベントページ](https://juliatokai.connpass.com/event/310955/), [発表資料](https://hackmd.io/@hyrodium/HytKvKx06#/)
 * JuliaTokyo #11
     * 日程: 2024/02/03
     * 「Julia Package Comparisonsの紹介と勧誘」というタイトルで発表しました。
-    * [告知ページ](https://juliatokyo.connpass.com/event/306300/), [発表資料](https://hackmd.io/@hyrodium/rJ0aIzqta#/1)
+    * [イベントページ](https://juliatokyo.connpass.com/event/306300/), [発表資料](https://hackmd.io/@hyrodium/rJ0aIzqta#/1)
 
 ## 2023
 * JuliaTokai #17 年末LT大会2023
     * 日程: 2023/12/10
     * 「julia-formatを整えた話と質問」というタイトルで発表しました。
-    * [告知ページ](https://juliatokai.connpass.com/event/304201/), [発表資料](https://hackmd.io/@hyrodium/Hk1zPiMIp#/)
+    * [イベントページ](https://juliatokai.connpass.com/event/304201/), [発表資料](https://hackmd.io/@hyrodium/Hk1zPiMIp#/)
 * 2023年度高専祭 (大阪高専)
     * 日程: 2023/11/04 - 2023/11/05
     * 場所: 大阪高専
     * 2023年度はOB出展スペースが設けられ、出展しました。
-    * [告知ページ](https://maedaomu.github.io/OMUCTKosenFes2023OBOG/)
+    * [イベントページ](https://maedaomu.github.io/OMUCTKosenFes2023OBOG/)
 * JuliaTokai #16
     * 日程: 2023/10/01
     * 場所: オンライン開催
     * 「JuliaCon2023参加してきました」というタイトルで発表しました。
     * 「Package extensions試してみた」というタイトルで発表しました。
-    * [告知ページ](https://juliatokai.connpass.com/event/295042/), [発表資料1](https://hackmd.io/@hyrodium/HkjH-bVea#/), [発表資料2](https://hackmd.io/@hyrodium/SJVF3HUxT#/)
+    * [イベントページ](https://juliatokai.connpass.com/event/295042/), [発表資料1](https://hackmd.io/@hyrodium/HkjH-bVea#/), [発表資料2](https://hackmd.io/@hyrodium/SJVF3HUxT#/)
 * 日本数学協会2023年度 年次大会
     * 日程: 2023/09/02
     * 場所: 新宿３丁目ビックスビル店会議室 （㈱ルノアール）
     * 「編み紙工作ワークショップ（理論解説付き）」というタイトルで発表しました。
-    * [告知ページ](https://www.sugaku-bunka.org/#_1493), [発表資料](https://hackmd.io/@hyrodium/SyLQ51bTh#/)
+    * [イベントページ](https://www.sugaku-bunka.org/#_1493), [発表資料](https://hackmd.io/@hyrodium/SyLQ51bTh#/)
 * JuliaCon2023
     * 日程: 2023/07/25 - 2023/07/29
     * 場所: MIT
