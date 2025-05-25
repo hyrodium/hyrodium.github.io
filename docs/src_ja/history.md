@@ -1,7 +1,39 @@
 # 出展・発表歴
 学会発表, 制作物展示, LTなどなど
 
+## 2025
+- NT加賀
+    - 日程: 2025-02-23 .. 2025-02-24
+    - NT系のイベントで初出展しました。
+    - [イベントページ](https://wiki.nicotech.jp/nico_tech/index.php?NT%E5%8A%A0%E8%B3%802025), [出展の様子](https://bsky.app/profile/hyrodium.bsky.social/post/3lisufuluq22y)
+- JuliaTokai #21
+    - 日程: 2025-03-30
+    - 「Juliaと3Dプリント (モデリング編)」というタイトルで発表しました。
+    - [イベントページ](https://juliatokai.connpass.com/event/346212/), [発表資料](https://hyrodium.github.io/slides/2025-03-30_JuliaTokai/)
+- JuliaTokai #22
+    - 日程: 2025-06-22
+    - なにかはなします
+    - [イベントページ](https://juliatokai.connpass.com/event/356759/), 発表資料(準備中)
+- 博物ふぇすてぃばる！11
+    - 日程: 2023-07-20 .. 2023-07-21
+    - 場所: 東京ビッグサイト
+    - [上木敬士郎](https://keishiroueki.net/ja/home-ja/)さんと共同出展します。
+    - [個別ページ](http://hakubutufesshoukai.blog.fc2.com/blog-entry-4168.html), [イベントページ](https://www.hakubutufes.info/)
+- Maker Faire Tokyo 2025
+    - 日程: 2025-10-04 .. 2025-10-05
+    - 場所: 東京ビッグサイト
+    - [上木敬士郎](https://keishiroueki.net/ja/home-ja/)さんと共同出展の予定です。 (出展確定まち)
+    - 個別ページ(準備中), [イベントページ](https://makezine.jp/event/mft2025/)
+
 ## 2024
+- 2024年度高専祭 (大阪高専)
+    - 日程: 2024-11-09 .. 2024-11-10
+    - OB出展スペースで出展しました。
+    - [イベントページ](https://maedaomu.github.io/OMUCTKosenFes2024OBOG/)
+- 第64回 ビレッジマート吹田
+    - 日程: 2024-11-03
+    - 「幾何とか具現屋」の屋号で作品の展示・販売をしました。
+    - [イベントページ](https://web.archive.org/web/20241203212301/https://janai.net/?p=1581)
 - JuliaTokai #18
     - 日程: 2024-06-30
     - 「2次補間法をJuliaで実装してみた」というタイトルで発表しました。
