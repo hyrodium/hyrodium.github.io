@@ -3,7 +3,7 @@
 
 ## 2025
 - 2025年度高専祭 (大阪高専)
-    - 日程: 2025-11-04 .. 2025-11-05
+    - 日程: 2025-11-08 .. 2025-11-09
     - 場所: 大阪高専
     - 例年に引き続きイベント出展予定です。2025年が寝屋川での最後の高専祭になるそうです。
     - [イベントページ](https://maedaomu.github.io/OMUCTKosenFes2025OBOG/)
@@ -29,9 +29,6 @@
     - 日程: 2025-02-23 .. 2025-02-24
     - NT系のイベントで初出展しました。
     - [イベントページ](https://wiki.nicotech.jp/nico_tech/index.php?NT%E5%8A%A0%E8%B3%802025), [出展の様子](https://bsky.app/profile/hyrodium.bsky.social/post/3lisufuluq22y)
-
-3DPの集いin大阪に申し込んでいました！出展とたぶん少し販売をやります💪 #3DPの集い
-https://note.com/ysk1025/n/n9d8797a24e74
 
 ## 2024
 - 2024年度高専祭 (大阪高専)
