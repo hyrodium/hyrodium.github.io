@@ -14,13 +14,14 @@
     - 個別ページ(準備中), [イベントページ](https://makezine.jp/event/mft2025/)
 - 3DPの集い in 大阪
     - 日程: 2025-09-13
+    - 3Dプリンタ関連作品を出展する予定です。展示番号はB16です。
     - 場所: 大阪市中央公会堂
     - [イベントページ](https://note.com/ysk1025/n/n9d8797a24e74)
 - 博物ふぇすてぃばる！11
     - 日程: 2023-07-20 .. 2023-07-21
     - 場所: 東京ビッグサイト
-    - [上木敬士郎](https://keishiroueki.net/ja/home-ja/)さんと共同出展します。
-    - [個別ページ](http://hakubutufesshoukai.blog.fc2.com/blog-entry-4168.html), [イベントページ](https://www.hakubutufes.info/)
+    - [上木敬士郎](https://keishiroueki.net/ja/home-ja/)さんと共同出展しました。
+    - [個別ページ](http://hakubutufesshoukai.blog.fc2.com/blog-entry-4168.html), [イベントページ](https://www.hakubutufes.info/), [出展の様子](https://bsky.app/profile/hyrodium.bsky.social/post/3lugsftavic24)
 - JuliaTokai #21
     - 日程: 2025-03-30
     - 「Juliaと3Dプリント (モデリング編)」というタイトルで発表しました。
