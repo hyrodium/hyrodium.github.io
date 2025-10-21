@@ -253,7 +253,7 @@
 
 ## 2010
 - RoboCup Junior 世界大会2010
-    - 日程: 2010-06-19 .. 2010/06/26
+    - 日程: 2010-06-19 .. 2010-06-26
     - 場所: シンガポール
     - RoboCup Junior Soccer A部門のsuper teamで1st placeでした.
     - [当時の記事](https://web.archive.org/web/20100701082429/https://www.asahi.com/national/update/0628/OSK201006280102.html)
